@@ -41,7 +41,7 @@ A simple bash script to control Mini DLNA and Samba services via notifications.
 
 ## Notes
 
-- I use [ArcMenu](https://github.com/arcmenu/ArcMenu) to launch the script.
+- I use [ArcMenu](https://gitlab.com/arcmenu/ArcMenu) to launch the script.
 - You will be prompted for your sudo password when toggling services.
 
 - The script uses a custom icon path (`/home/cass/Pictures/applications-science-symbolic.svg`). Update this path to match your icon location.
